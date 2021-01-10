@@ -1,6 +1,5 @@
 .header__lang-linkRu{
     max-width: 30px;
-    max-height: 28px;
     text-decoration: underline;
     font-family: Inter;
     font-style: normal;
@@ -10,15 +9,14 @@
     color: #FFFFFF;
     margin-right: 0;
 }
-@media screen and (max-width: 320px){
-    .header__lang-linkRu{
-    max-width: 22px;
-    max-height: 20px;
-    font-size: 18px;
-    line-height: 20px;
-    }
+@media screen and (max-width: 1024px){
 }
 @media screen and (max-width: 768px){
 }
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 320px){
+    .header__lang-linkRu{
+    max-width: 22px;
+    font-size: 18px;
+    line-height: 20px;
+    }
 }

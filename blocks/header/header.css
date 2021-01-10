@@ -1,6 +1,5 @@
 .header{
     max-width: 1184px;
-    max-height: 52px;
     display: grid;
     grid-template-columns: 1fr 30px 30px;
     grid-template-rows: 1fr;
