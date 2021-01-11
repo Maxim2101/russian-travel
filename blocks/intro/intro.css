@@ -4,12 +4,12 @@
     margin-top: 92px;
     margin-bottom: 92px;
   }
-  @media screen and (max-width: 1280px) {
+  @media screen and (max-width: 1300px) {
     .intro {
       margin-left: 48px;
     }
   }
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1044px) {
     .intro {
       margin-left: 24px;
       width: 720px;
@@ -17,7 +17,7 @@
       margin-bottom: 88px;
     }
   }
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 788px) {
     .intro {
       margin-left: 16px;
       width: 288px;

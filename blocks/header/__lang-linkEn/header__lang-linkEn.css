@@ -8,11 +8,11 @@
     margin-right: 0;
     color: #ffffff;
   }
-  @media screen and (max-width: 1280px) {
+  @media screen and (max-width: 1300px) {
   }
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1044px) {
   }
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 788px) {
     .header__lang-linkEn {
       max-width: 22px;
       font-size: 18px;

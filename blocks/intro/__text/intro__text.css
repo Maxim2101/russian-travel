@@ -10,15 +10,15 @@
     padding-top: 40px;
     padding-bottom: 33px;
   }
-  @media screen and (max-width: 1280px) {
+  @media screen and (max-width: 1300px) {
   }
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1044px) {
     .intro__text {
       width: 720px;
       padding-top: 88px;
     }
   }
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 788px) {
     .intro__text {
       width: 288px;
       font-size: 16px;

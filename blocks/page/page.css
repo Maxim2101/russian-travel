@@ -3,17 +3,17 @@
   width: 1280px;
   margin: auto;
   }
-@media screen and (max-width: 1280px){
+@media screen and (max-width: 1300px){
  .page{
   width: 1024px;
  }
 }
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1044px){
   .page{
   width: 768px;
   }
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 788px){
   .page{
   width: 320px;
   }

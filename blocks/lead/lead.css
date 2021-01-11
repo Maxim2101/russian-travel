@@ -2,17 +2,17 @@
     max-width: 984px;
     margin: auto;
   }
-  @media screen and (max-width: 1280px) {
+  @media screen and (max-width: 1300px) {
     .lead {
       max-width: 928px;
     }
   }
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1044px) {
     .lead {
       max-width: 768px;
     }
   }
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 788px) {
     .lead {
       max-width: 320px;
     }
