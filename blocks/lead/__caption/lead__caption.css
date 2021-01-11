@@ -1,25 +1,26 @@
-.lead__caption{
-max-width: 159px;
-font-family: Inter;
-font-style: normal;
-font-weight: normal;
-font-size: 10px;
-line-height: 14px;
-letter-spacing: 0.15em;
-text-transform: uppercase;
-color: #FFFFFF;
-padding-top: 8px;
-margin: 0;
-}
-@media screen and (max-width: 1024px){
-}
-@media screen and (max-width: 768px){
-    .lead__caption{
-        padding-left: 24px;
+.lead__caption {
+    max-width: 159px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding-top: 8px;
+    margin: 0;
+  }
+  @media screen and (max-width: 1280px) {
+  }
+  @media screen and (max-width: 1024px) {
+    .lead__caption {
+      padding-left: 24px;
     }
-}
-@media screen and (max-width: 320px){
-    .lead__caption{
-        padding-left: 16px;
+  }
+  @media screen and (max-width: 768px) {
+    .lead__caption {
+      padding-left: 16px;
     }
-}
+  }
+  

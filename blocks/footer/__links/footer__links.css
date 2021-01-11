@@ -1,12 +1,13 @@
-.footer__links{
+.footer__links {
     display: flex;
-}
-@media screen and (max-width: 1024px){
-}
-@media screen and (max-width: 768px){
-}
-@media screen and (max-width: 320px){
-    .footer__links{
-        display: block;
+  }
+  @media screen and (max-width: 1280px) {
+  }
+  @media screen and (max-width: 1024px) {
+  }
+  @media screen and (max-width: 768px) {
+    .footer__links {
+      display: block;
     }
-}
+  }
+  
