@@ -13,7 +13,7 @@
  }
  @media screen and (max-width: 1024px) {
    .place__paragraph {
-     max-width: auto;
+     max-width: 456px;
    }
  }
  @media screen and (max-width: 768px) {

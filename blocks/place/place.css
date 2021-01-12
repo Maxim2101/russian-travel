@@ -18,7 +18,8 @@
     .place {
       max-width: 720px;
       column-gap: 28px;
-      padding-top: 88px;
+      padding-top: 48px;
+      /* padding-top: 88px; */
     }
   }
   @media screen and (max-width: 320px) {
