@@ -1,11 +1,11 @@
 .footer__links {
     display: flex;
   }
-  @media screen and (max-width: 1300px) {
+  @media screen and (max-width: 1024px) {
   }
-  @media screen and (max-width: 1044px) {
+  @media screen and (max-width: 768px) {
   }
-  @media screen and (max-width: 788px) {
+  @media screen and (max-width: 320px) {
     .footer__links {
       display: block;
     }

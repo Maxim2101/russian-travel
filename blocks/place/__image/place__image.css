@@ -1,21 +1,21 @@
 .place__image {
-  width: 460px;
+  max-width: 460px;
   grid-row-start: 2;
   grid-row-end: 5;
 }
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1024px) {
   .place__image {
-    width: 440px;
+    max-width: 440px;
   }
 }
-@media screen and (max-width: 1044px) {
+@media screen and (max-width: 768px) {
   .place__image {
-    width: 340px;
+    max-width: 340px;
   }
 }
-@media screen and (max-width: 788px) {
+@media screen and (max-width: 320px) {
   .place__image {
-    width: 320px;
+    max-width: 320px;
     padding-top: 32px;
     padding-bottom: 32px;
   }
