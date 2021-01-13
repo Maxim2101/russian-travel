@@ -15,7 +15,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 735px) {
   .cover__link {
     max-width: 288px;
     font-size: 32px;

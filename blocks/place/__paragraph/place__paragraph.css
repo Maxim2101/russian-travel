@@ -13,16 +13,16 @@
  }
  @media screen and (max-width: 1024px) {
    .place__paragraph {
-     max-width: 456px;
+     max-width: auto;
    }
  }
- @media screen and (max-width: 768px) {
+ @media screen and (max-width: 955px) {
    .place__paragraph {
      font-size: 16px;
      max-width: 352px;
    }
  }
- @media screen and (max-width: 320px) {
+ @media screen and (max-width: 735px) {
    .place__paragraph {
      max-width: 288px;
      padding-left: 16px;

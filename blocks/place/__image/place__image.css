@@ -8,12 +8,12 @@
     max-width: 440px;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 955px) {
   .place__image {
     max-width: 340px;
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 735px) {
   .place__image {
     max-width: 320px;
     padding-top: 32px;
